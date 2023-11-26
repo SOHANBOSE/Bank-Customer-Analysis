@@ -4,7 +4,7 @@
 * Banks are constantly analysing data to understand their ideal customers
 * Customer personalty tests help banks to have a clear visual of who their customers are as well as their behaviors
 * This project will analyse a bank dataset to showcase their customers and whether they are likely to deposit with them.
-* The dataset has been provided by Kaggle, you can get it Here
+* The dataset has been provided by Kaggle, you can get it Here.
 
 ## Insights
 * Married people account for the highest number of cutomers while divorced people are the least.
